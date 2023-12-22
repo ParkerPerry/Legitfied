@@ -1,2 +1,2 @@
-# Legitfied
+# Legitified
 Legitified's Github repo
